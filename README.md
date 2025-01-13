@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱  I’m currently learning Verilog and VHDL 
 
 
-
 📕  **Checkout my website**
-- LucasSun.info
+- [LucasSun.info](https://www.lucasSun.info)
 
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=punchdii)](https://github.com/punchdii/github-readme-stats)
