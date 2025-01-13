@@ -7,21 +7,14 @@ You can click the Preview link to take a look at your changes.
 
 [](https://github.com/gautamkrishnar#hi-there-)
 
-This is the place where I opensource stuff and break things 🤣
+- ⚡  I am a computer engineering student at UWaterloo with experience in firmware dev, web dev, and FPGA!
+- 🔭  I’m currently working getting a internship this summer 😉
+- 🌱  I’m currently learning Verilog and VHDL 
 
-- 🔭  I’m currently working on something cool 😉
-- 🌱  I’m currently learning Flutter, Go
-- 💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻  Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
 
 📕  **Checkout my website**
 - LucasSun.info
 
-### ✨  About Me
-
-[](https://github.com/gautamkrishnar#-about-me)
-
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=punchdii)](https://github.com/punchdii/github-readme-stats)
