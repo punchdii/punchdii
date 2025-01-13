@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 📕  **Checkout my website**
-- [LucasSun.info](https://www.lucasSun.info)
+- [LucasSun.info](https://lucasSun.info)
 
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=punchdii)](https://github.com/punchdii/github-readme-stats)
