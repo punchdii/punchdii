@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 ## Hi there 
 [](https://github.com/gautamkrishnar#hi-there-)
 
-- ⚡  I am a first year computer engineering student at UWaterloo
+I am a second year computer engineering student at UWaterloo
+Reach me at E7 4053
 
 
 📕  **Checkout my website**
